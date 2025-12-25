@@ -11,8 +11,8 @@
 
 **LOSTit** is an intelligent, cloud-native Lost & Found management platform designed for universities and public spaces. It leverages **AWS Serverless architecture** for scalability and **Generative AI** for automated item recognition and user support, solving the chaos of manual lost and found logs.
 
-> **Project Lead**: Priyanshu Kumar Gurjar  
-> **Contact**: pk2525507@gmail.com | +91 7717255246
+> **Project Lead**: Bittu Kumar  
+> **Contact**: bittu6204kk@gmail.com | +91 9113301096
 
 ---
 
@@ -187,3 +187,4 @@ This role has `AdministratorAccess` pre-configured and will allow your Lambda to
 
 This project is licensed for educational use.
 >>>>>>> f06eab9676dafbadedfbb7099f511d862f88b65d
+
